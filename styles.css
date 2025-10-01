@@ -1,9 +1,23 @@
 body{ 
-    background:#3c36ec;
+    background:#E6473C;
     font-family:'Times New Roman', Times, serif;
 }
 
 h1 {
     color:#ffffff;
+    text-align: center;
+}
+
+h2 {
+    color:#56916E;
+    text-align: center;
+}
+
+h3 {
+    color:#56916E;
+    text-align: center;
+}
+h4 {
+    color:#56916E;
     text-align: center;
 }
