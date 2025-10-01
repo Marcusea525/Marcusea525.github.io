@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>CSCE 190: Marcus Allen</title>
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    <body>
+        <h1>Marcus Allen</h1>
+        <div class = "about">
+            <h2>About me</h2>
+            <p>My mission is to live a life that benefits or makes other’s lives easier and one that will make 
+my mother, father, and grandparents proud.</p>
+        </div>
+        <div class = "skills">
+            <h2>Skills</h2>
+        </div>
+        <p>My portfolio website</p>
+    </body>
+</html>
