@@ -39,7 +39,7 @@ h2 {
     width: 400px;
     height: 400px;
     margin: 10px;
-    border: 50px solid rgb(235, 152, 0); /* choose a color */
+    border: 20px solid rgb(235, 152, 0); /* choose a color */
     display: block;
     margin: auto;
 }
