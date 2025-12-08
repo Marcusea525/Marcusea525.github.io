@@ -15,7 +15,7 @@ h2 {
     font-family:'Times New Roman', Times, serif;
 }
 
-h4 {
+h3 {
     color:#23e16f;
     font-size: 25;
     text-align: center;
@@ -23,9 +23,9 @@ h4 {
 }
 
 h4 {
-    color:#000000;
+    color:#23e16f;
     font-size: 25;
-    text-align: left;
+    text-align: center;
     font-family:'Times New Roman', Times, serif;
 }
 .projects { display:flex; flex-wrap:wrap; } /* condensed to save space */
